@@ -51,7 +51,7 @@ O objetivo é incentivar hábitos saudáveis com simplicidade, permitindo que o 
 ## Como Executar
 
 1. **Clonar ou baixar o projeto**  
-   git clone https://github.com/seu-repositorio/caretrack.git
+   git clone https://github.com/FelipeNakama/FIAP_CHALL2025_SPRINT1-2_CSharp.git
    cd caretrack
 2. **Compilar o projeto**
    dotnet build
