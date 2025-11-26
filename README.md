@@ -52,9 +52,14 @@ O objetivo é incentivar hábitos saudáveis com simplicidade, permitindo que o 
 
 1. **Clonar ou baixar o projeto**  
    git clone https://github.com/FelipeNakama/FIAP_CHALL2025_SPRINT1-2_CSharp.git
+   
    cd caretrack
-2. **Compilar o projeto**
+   
+3. **Compilar o projeto**
+   
    dotnet build
-4. **Executar o programa**
+   
+5. **Executar o programa**
+   
    dotnet run
 
